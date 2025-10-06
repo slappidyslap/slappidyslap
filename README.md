@@ -1,4 +1,4 @@
-<img width="100%" src="vvtmem.gif" alt="что"/>
+<!-- <img width="100%" src="vvtmem.gif" alt="что"/> -->
 <!--
 **Melakuera/Melakuera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
