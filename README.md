@@ -1,8 +1,27 @@
+[pc-edu-helper](https://github.com/slappidyslap/pc-edu-helper)
+
+[em-bank-rest](https://github.com/slappidyslap/em-bank-rest)
+
+[megalab-news](https://github.com/slappidyslap/megalab-news)
+
+[kgwork](https://github.com/slappidyslap/kgwork)
+
+[currency-microservices](https://github.com/slappidyslap/currency-microservices)
+
+[clusterizator-kotlin](https://github.com/slappidyslap/clusterizator-kotlin)
+
+[gsc-helper](https://github.com/slappidyslap/gsc-helper)
+
+[multithreaded-restaurant](https://github.com/slappidyslap/multithreaded-restaurant)
+
 <div>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" width="40" height="40"/>
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/java/java-original.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/kotlin/kotlin-original.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/spring/spring-original.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/docker/docker-original.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/postgresql/postgresql-original.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/typescript/typescript-original.svg" width="40" height="40"/>
+   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/nuxt/nuxt-original.svg" width="40" height="40"/>
 </div>
 
 <!-- <img width="100%" src="vvtmem.gif" alt="что"/> -->
