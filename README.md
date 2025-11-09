@@ -27,7 +27,8 @@
 <br/>
 <br/>
 
-this is literally me
+
+эт литерали я
 
 <img width="50%" src="ZV3Tf7.gif" alt="что"/>
 
