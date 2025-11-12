@@ -1,5 +1,7 @@
 [pc-edu-helper](https://github.com/slappidyslap/pc-edu-helper)
 
+[spring-vue](https://github.com/slappidyslap/spring-vue)
+
 [em-bank-rest](https://github.com/slappidyslap/em-bank-rest)
 
 [megalab-news](https://github.com/slappidyslap/megalab-news)
